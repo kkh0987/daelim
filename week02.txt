@@ -1,2 +1,8 @@
 dfa
 dfaggh
+2교시 git 명령어
+2교시
+status
+init
+add<파일명>
+commit -m "커밋 메세지"
