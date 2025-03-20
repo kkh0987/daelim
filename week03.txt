@@ -1,0 +1,12 @@
+3주차
+1교시
+IDE(파이참) git bash 터미널 연결
+Setting ->Tools ->Terminals -> Shell path
+bash선택
+
+git명령어
+remote -v
+.gitignore 이해 (깃이그노어 데이터베이스 암호)
+
+
+
